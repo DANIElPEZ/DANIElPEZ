@@ -19,8 +19,7 @@
 </div>
 🎮 For videogame
 <div>
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://www.pygame.org/docs/_images/pygame_logo.png" style="height:34px;">
+  <img src="https://static.wikia.nocookie.net/roblox/images/6/6d/Roblox_Studio_Icon_5.svg/revision/latest/scale-to-width-down/250?cb=20230511030402" style="height:34px;">
 </div>
 🧑‍💻 For big data
 <div>
