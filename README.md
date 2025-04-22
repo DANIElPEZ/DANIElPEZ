@@ -5,6 +5,7 @@
 📱 For mobile
 <div>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/supabase-realtimedatabase?style=for-the-badge&logo=supabase&color=%2328856c">
 </div>
 🧑‍💻 For web fullStack
 <div>
