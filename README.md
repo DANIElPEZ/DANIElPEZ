@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @DANIEl
-#### 👀 I’m interested in mobile, web, videogame, big data, cibersecurity areas.
+#### 👀 I’m interested in mobile, web, videogame, big data areas.
 #### 📖 I’m studying to big data and videgame development.
 ##### these is my favorite technologies
 📱 For mobile
