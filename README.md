@@ -53,5 +53,5 @@ Currently, I’m studying **Big Data** and always learning new tools to build sc
 ---
 
 ## 📫 Let’s Connect  
-- 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/daniel-santiago-gonzalez-ubaque-84112b334/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/daniel-santiago-gonzalez-ubaque-84112b334/)  
 - 📧 Email: daniel.gonzalezubaque@gmail.com
